@@ -1,0 +1,8 @@
+
+The offices can be connected as
+(h,i), (e,h), (b,e), (e,f), (a,f), (e,g), (e,d), (c,d), (i,j), (j,k), (d,m), (k,o), (n,o), (k,l)
+The minimum cost of connecting the offices is 1030
+In promptPS2.txt file there no lines to read.So we are terminating the process.
+The offices can be connected as
+(h,i), (e,h), (b,e), (e,f), (a,f), (e,g), (e,d), (c,d), (i,j), (j,k), (d,m), (k,o), (n,o), (k,l)
+The minimum cost of connecting the offices is 1030
